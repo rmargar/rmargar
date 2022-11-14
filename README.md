@@ -1,7 +1,5 @@
 ### Hi there I am Ricardo
 
-Here are some ideas to get you started:
-
 - 🔭 I’m a backend engineer, working mostly in Python
 - 👀 I'm interested in TDD, DDD and microservice architectures.
 - 🌱 I’m currently learning:
