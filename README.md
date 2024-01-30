@@ -1,4 +1,4 @@
-### Hi there I am rmargar
+### Hi there I am Ricardo
 
 - 🔭 I’m a backend engineer, working mostly in Python
 - 👀 I'm interested in TDD, DDD and microservice architectures.
