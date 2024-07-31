@@ -11,6 +11,6 @@
     - Kafka
     - Terraform
 
-![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmargar&count_private=true&theme=radical&show_owner=true)
+![Ricardo's GitHub stats](https://github-readme-stats-rmargar.vercel.app/api?username=rmargar&count_private=true&theme=radical&show_owner=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rmargar)](https://github.com/rmargar/github-readme-stats)
+[![Top Languages](https://github-readme-stats-rmargar.vercel.app/api/top-langs/?username=rmargar)](https://github.com/rmargar/github-readme-stats)
