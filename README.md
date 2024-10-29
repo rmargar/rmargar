@@ -1,6 +1,6 @@
 ### Hi there I am Ricardo
 
-- 🔭 I’m a backend engineer, working mostly in Python
+- 🔭 I’m a software engineer, who works mostly in Go and Python
 - 👀 I'm interested in TDD, DDD and microservice architectures.
 - 🌱 I’m currently learning:
   - Programming languages:
