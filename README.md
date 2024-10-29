@@ -3,13 +3,8 @@
 - 🔭 I’m a software engineer, who works mostly in Go and Python
 - 👀 I'm interested in TDD, DDD and microservice architectures.
 - 🌱 I’m currently learning:
-  - Programming languages:
-    - Golang
-    - React
-    - Node.js
-  - Technologies
-    - Kafka
-    - Terraform
+  - TypeScript
+  - React
 
 ![Ricardo's GitHub stats](https://github-readme-stats-rmargar.vercel.app/api?username=rmargar&count_private=true&theme=radical&show_owner=true)
 
